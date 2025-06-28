@@ -1,32 +1,21 @@
-## Iana Neri - Engenheira de Dados
+👋 Hi! I'm Iana Alexandre Neri, 28 years old, a data engineer with a background in back-end development.
+Currently, I'm studying Software Architecture and Machine Learning, aiming to bridge modern engineering practices with intelligent, scalable solutions.
+
+🚀 I'm particularly interested in data engineering, software architecture, and cloud computing.
+📚 Right now, I'm deepening my knowledge in machine learning, looking to apply it to intelligent data pipelines and automated decision-making systems.
+
+💡 I believe clean code, smart automation, and continuous collaboration are the foundations of good engineering.
+
+📬 Feel free to reach out for networking or project discussions: iananeri@outlook.com
 
 
-<div>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" title="Apache Spark"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/></code>
-</div>
+👋 Olá! Eu sou Iana Alexandre Neri, tenho 28 anos e sou engenheira de dados com experiência em desenvolvimento back-end.
+Atualmente sou estudante de Arquitetura de Software e Machine Learning, buscando unir práticas de engenharia modernas com soluções inteligentes e escaláveis.
 
-### Visite meu perfil no [LinkedIn](https://www.linkedin.com/in/iana-neri/)
+🚀 Tenho interesse especial nas áreas de engenharia de dados, arquitetura de software e cloud computing.
+📚 Atualmente estou me aprofundando em aprendizado de máquina (Machine Learning), com o objetivo de aplicar esse conhecimento em pipelines inteligentes de dados e decisões automatizadas.
 
-### Principais Skills
-- Python
-- SQL
-- PySpark
-- Databricks
-- Azure
-- AWS
-- Go
+💡 Acredito em código limpo, automação eficiente e colaboração constante como pilares da boa engenharia.
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iana-Neri22&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+📬 Se quiser trocar ideias ou conversar sobre projetos e tecnologia, entre em contato: iananeri@outlook.com
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Iana-Neri22&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-## Linguagens mais usadas
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iana-Neri22)
