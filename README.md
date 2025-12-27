@@ -1,21 +1,19 @@
-👋 Hi! I'm Iana Alexandre Neri, 28 years old, a data engineer with a background in back-end development.
-Currently, I'm studying Software Architecture and Machine Learning, aiming to bridge modern engineering practices with intelligent, scalable solutions.
+Sou Engenheira de Dados, com experiência em back-end e foco na construção de pipelines escaláveis, confiáveis e orientados a dados. Atuo com Python, SQL e ambientes em nuvem, trabalhando desde ingestão e modelagem até transformações e camadas analíticas, sempre com atenção à qualidade e à performance.
 
-🚀 I'm particularly interested in data engineering, software architecture, and cloud computing.
-📚 Right now, I'm deepening my knowledge in machine learning, looking to apply it to intelligent data pipelines and automated decision-making systems.
+Atualmente, estou aprofundando meus estudos em Machine Learning, com o objetivo de aplicar inteligência de forma prática em pipelines de dados, automações e sistemas de apoio à decisão — integrando modelos ao fluxo de dados de ponta a ponta.
 
-💡 I believe clean code, smart automation, and continuous collaboration are the foundations of good engineering.
+Tenho interesse especial em engenharia de dados, Machine Learning e cloud computing, especialmente em contextos que exigem dados confiáveis, monitoráveis e prontos para uso analítico ou preditivo.
+
+Acredito que código limpo, automação inteligente e colaboração contínua são pilares essenciais para sistemas sustentáveis e times de alta performance.
+
+📬 Aberta a trocas, networking e projetos: iananeri@outlook.com
+
+I’m a Data Engineer with a background in back-end development, focused on building scalable, reliable, and data-driven pipelines. I work with Python, SQL, and cloud environments, covering data ingestion, modeling, transformations, and analytics layers, always prioritizing data quality and performance.
+
+I’m currently deepening my knowledge in Machine Learning, aiming to apply intelligence in a practical way to data pipelines, automation, and end-to-end decision-support systems.
+
+My main interests include data engineering, applied Machine Learning, and cloud computing, especially in environments that require reliable, observable, and analytics-ready data.
+
+I strongly believe that clean code, smart automation, and continuous collaboration are the foundation of sustainable systems and high-performing teams.
 
 📬 Feel free to reach out for networking or project discussions: iananeri@outlook.com
-
-
-👋 Olá! Eu sou Iana Alexandre Neri, tenho 28 anos e sou engenheira de dados com experiência em desenvolvimento back-end.
-Atualmente sou estudante de Arquitetura de Software e Machine Learning, buscando unir práticas de engenharia modernas com soluções inteligentes e escaláveis.
-
-🚀 Tenho interesse especial nas áreas de engenharia de dados, arquitetura de software e cloud computing.
-📚 Atualmente estou me aprofundando em aprendizado de máquina (Machine Learning), com o objetivo de aplicar esse conhecimento em pipelines inteligentes de dados e decisões automatizadas.
-
-💡 Acredito em código limpo, automação eficiente e colaboração constante como pilares da boa engenharia.
-
-📬 Se quiser trocar ideias ou conversar sobre projetos e tecnologia, entre em contato: iananeri@outlook.com
-
