@@ -17,3 +17,27 @@ My main interests include data engineering, applied Machine Learning, and cloud 
 I strongly believe that clean code, smart automation, and continuous collaboration are the foundation of sustainable systems and high-performing teams.
 
 📬 Feel free to reach out for networking or project discussions: iananeri@outlook.com
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iana-Neri22&layout=compact&theme=github_dark&hide_border=true)
+
+
+
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Iana-Neri22&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+
+
+
+## 🔥 Commit Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Iana-Neri22&theme=default)
+
+
+
+
+
