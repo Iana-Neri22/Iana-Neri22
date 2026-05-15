@@ -1,43 +1,37 @@
-Sou Engenheira de Dados, com experiência em back-end e foco na construção de pipelines escaláveis, confiáveis e orientados a dados. Atuo com Python, SQL e ambientes em nuvem, trabalhando desde ingestão e modelagem até transformações e camadas analíticas, sempre com atenção à qualidade e à performance.
+Sou Engenheira de Dados com foco na construção de plataformas e pipelines escaláveis, confiáveis e orientados a dados em ambientes cloud. Trabalho com Python, SQL, Spark, Databricks e AWS/Azure, atuando desde ingestão e modelagem até processamento distribuído, orquestração e disponibilização de dados para consumo analítico e aplicações inteligentes.
 
-Atualmente, estou aprofundando meus estudos em Machine Learning, com o objetivo de aplicar inteligência de forma prática em pipelines de dados, automações e sistemas de apoio à decisão — integrando modelos ao fluxo de dados de ponta a ponta.
+Tenho direcionado minha evolução para o ecossistema de MLOps e Data Platform Engineering, buscando integrar engenharia de dados, automação e Machine Learning de ponta a ponta — desde pipelines resilientes e observabilidade até deploy e monitoramento de modelos em produção.
 
-Tenho interesse especial em engenharia de dados, Machine Learning e cloud computing, especialmente em contextos que exigem dados confiáveis, monitoráveis e prontos para uso analítico ou preditivo.
+Tenho interesse especial em arquitetura de dados, processamento distribuído, engenharia de plataformas, ML pipelines e cloud computing, principalmente em contextos que exigem escalabilidade, governança, performance e confiabilidade operacional.
 
-Acredito que código limpo, automação inteligente e colaboração contínua são pilares essenciais para sistemas sustentáveis e times de alta performance.
+Acredito em código limpo, automação, observabilidade e colaboração contínua como pilares para construir sistemas sustentáveis, eficientes e preparados para crescer.
 
-📬 Aberta a trocas, networking e projetos: iananeri@outlook.com
+📬 Aberta a networking, projetos e oportunidades em Data Engineering, Cloud e MLOps: iananeri@outlook.com
 
-I’m a Data Engineer with a background in back-end development, focused on building scalable, reliable, and data-driven pipelines. I work with Python, SQL, and cloud environments, covering data ingestion, modeling, transformations, and analytics layers, always prioritizing data quality and performance.
+I’m a Data Engineer focused on building scalable, reliable, and cloud-native data platforms and pipelines. I work with Python, SQL, Spark, Databricks, and AWS/Azure, covering data ingestion, modeling, distributed processing, orchestration, and analytics-ready data delivery.
 
-I’m currently deepening my knowledge in Machine Learning, aiming to apply intelligence in a practical way to data pipelines, automation, and end-to-end decision-support systems.
+I’m currently expanding my expertise toward MLOps and Data Platform Engineering, aiming to integrate data engineering, automation, and Machine Learning into end-to-end production workflows — from resilient pipelines and observability to model deployment and monitoring.
 
-My main interests include data engineering, applied Machine Learning, and cloud computing, especially in environments that require reliable, observable, and analytics-ready data.
+My main interests include data architecture, distributed systems, platform engineering, ML pipelines, and cloud computing, especially in environments that demand scalability, governance, performance, and operational reliability.
 
-I strongly believe that clean code, smart automation, and continuous collaboration are the foundation of sustainable systems and high-performing teams.
+I believe clean code, automation, observability, and continuous collaboration are key foundations for building sustainable, efficient, and high-performing systems.
 
-📬 Feel free to reach out for networking or project discussions: iananeri@outlook.com
+📬 Open to networking, projects, and opportunities related to Data Engineering, Cloud, and MLOps: Sou Engenheira de Dados com foco na construção de plataformas e pipelines escaláveis, confiáveis e orientados a dados em ambientes cloud. Trabalho com Python, SQL, Spark, Databricks e AWS/Azure, atuando desde ingestão e modelagem até processamento distribuído, orquestração e disponibilização de dados para consumo analítico e aplicações inteligentes.
 
-## 📊 Most Used Languages
+Tenho direcionado minha evolução para o ecossistema de MLOps e Data Platform Engineering, buscando integrar engenharia de dados, automação e Machine Learning de ponta a ponta — desde pipelines resilientes e observabilidade até deploy e monitoramento de modelos em produção.
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iana-Neri22&layout=compact&theme=github_dark&hide_border=true)
+Tenho interesse especial em arquitetura de dados, processamento distribuído, engenharia de plataformas, ML pipelines e cloud computing, principalmente em contextos que exigem escalabilidade, governança, performance e confiabilidade operacional.
 
+Acredito em código limpo, automação, observabilidade e colaboração contínua como pilares para construir sistemas sustentáveis, eficientes e preparados para crescer.
 
+📬 Aberta a networking, projetos e oportunidades em Data Engineering, Cloud e MLOps: [Linkedin: Iana Alexandre Neri](https://www.linkedin.com/in/iana-neri/)
 
+I’m a Data Engineer focused on building scalable, reliable, and cloud-native data platforms and pipelines. I work with Python, SQL, Spark, Databricks, and AWS/Azure, covering data ingestion, modeling, distributed processing, orchestration, and analytics-ready data delivery.
 
+I’m currently expanding my expertise toward MLOps and Data Platform Engineering, aiming to integrate data engineering, automation, and Machine Learning into end-to-end production workflows — from resilient pipelines and observability to model deployment and monitoring.
 
-## 📈 GitHub Stats
+My main interests include data architecture, distributed systems, platform engineering, ML pipelines, and cloud computing, especially in environments that demand scalability, governance, performance, and operational reliability.
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Iana-Neri22&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+I believe clean code, automation, observability, and continuous collaboration are key foundations for building sustainable, efficient, and high-performing systems.
 
-
-
-
-## 🔥 Commit Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Iana-Neri22&theme=default)
-
-
-
-
-
+📬 Open to networking, projects, and opportunities related to Data Engineering, Cloud, and MLOps: [Linkedin: Iana Alexandre Neri](https://www.linkedin.com/in/iana-neri/)
